@@ -5,7 +5,7 @@ if has('nvim-0.5')
         lua require("vim-be-good").menu()
     endfun
 
-    com! VimBeGood call VimBeGood()
+    com! Vimtrainer call VimBeGood()
 
     augroup VimBeGood
         autocmd!
