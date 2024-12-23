@@ -11,7 +11,7 @@ local default_config = {
   should_inspect = false,
 
   -- Name of the plugin. Prepended to log messages
-  plugin = 'VimBeGood',
+  plugin = 'VimTrainer',
 
   -- Should print the output to neovim while running
   use_console = vim.g["vim_be_good_log_console"] or false,
