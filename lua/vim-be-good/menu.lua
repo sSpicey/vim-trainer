@@ -32,9 +32,8 @@ local credits = {
     "Created by ThePrimeagen",
     "Brandoncc",
     "polarmutex",
-    "",
-    "https://github.com/ThePrimeagen/vim-be-good",
-    "https://twitch.tv/ThePrimeagen",
+    "Modified and perfected by ;)"
+    "sSpicey",
 }
 
 function Menu:new(window, onResults)
